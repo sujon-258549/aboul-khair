@@ -1,0 +1,21 @@
+.banner-img {
+    background: url('https://www.abulkhairgroup.com/wp-content/uploads/2020/11/akg-2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.banner-img2 {
+    background: url('https://www.abulkhairgroup.com/wp-content/uploads/2020/11/all-brands-Background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.supperbrand{
+    background: url('https://i.ibb.co/tsymX74/77e0d54e2046610c2f2d8f2f169efb3b.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
