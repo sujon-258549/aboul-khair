@@ -2,7 +2,7 @@ import React from 'react';
 
 const BisnessPortfoleo = () => {
     return (
-        <div className='pt-32'>
+        <div className=''>
             <video autoPlay loop muted src="https://www.abulkhairgroup.com/wp-content/uploads/2020/11/BUSINESS-PORTFOLIO-.mp4" />
 
             <div className='w-[90%] mx-auto px-5 pb-16'>

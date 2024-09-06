@@ -6,7 +6,7 @@ import './style.css'
 
 const Homebanner = () => {
     return (
-        <div className='pt-20'>
+        <div className='mt-5 md:mt-0'>
             <div
                 className='  banner-img lg:min-h-[450px]  md:min-h-[350px] min-h-[150px] flex  items-center'
             >
