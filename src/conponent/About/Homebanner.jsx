@@ -2,7 +2,7 @@
 "use client"
 
 
-import './style.css'
+import '../Home/style.css'
 
 const Homebanner = () => {
     return (
@@ -10,7 +10,7 @@ const Homebanner = () => {
             <div
                 className='  banner-img lg:min-h-[450px]  md:min-h-[350px] min-h-[150px] flex  items-center'
             >
-                <img className='mx-auto md:w-[60%]' src="https://www.abulkhairgroup.com/wp-content/uploads/2020/11/Picture2-min.png" alt="" />
+                <img className='mx-auto md:w-[60%]' src="https://www.abulkhairgroup.com/wp-content/uploads/2020/11/About-us-min-1.png" alt="" />
             </div>
         </div>
 
