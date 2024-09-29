@@ -26,7 +26,7 @@ const Gallery = () => {
 
             <div className='flex flex-wrap justify-center gap-5 mt-10 md:py-14 '>
                 {gallerydata.map((item, index) => (
-                    <div className="w-full md:w-[31%] lg:w-[23%] overflow-hidden border rounded-md" style={{ boxShadow: '1px 1px 10px #fc2' }}>
+                    <div key={index} className="w-full md:w-[31%] lg:w-[23%] overflow-hidden border rounded-md" style={{ boxShadow: '1px 1px 10px #fc2' }}>
                         <img
                             className="object-cover w-full h-56"
                             src={item.image}
