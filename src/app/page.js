@@ -1,6 +1,4 @@
-export const dynamic = 'force-dynamic'
 
-import Image from "next/image";
 import Homebanner from "@/conponent/Home/Homebanner";
 import Homevideo from "@/conponent/Home/Homevideo";
 import Supperbrand from "@/conponent/Home/Supperbrand";
