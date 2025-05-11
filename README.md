@@ -1,36 +1,75 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Aboul Khair
 
-## Getting Started
+A fully responsive frontend website built with **Next.js**, showcasing a modern design and clean UI for Aboul Khair.
 
-First, run the development server:
+🟢 **Live Website**: [https://aboul-khair.vercel.app](https://aboul-khair.vercel.app)  
+🟡 **Frontend Repository**: [GitHub - Frontend](https://github.com/sujon-258549/aboul-khair)  
 
-```bash
+---
+
+## 🚀 Core Features
+
+- ⚡ Built with **Next.js App Router** (latest version)
+- 🎨 Styled with **Tailwind CSS**
+- 🔍 SEO-optimized and blazing fast performance
+- 📱 Mobile-first responsive layout
+- ♻️ Component-based architecture
+- 🌐 Deployed with **Vercel**
+
+
+
+## 🛠️ Technologies Used
+
+| Technology      | Version     |
+|-----------------|-------------|
+| Next.js         | ^14.x.x     |
+| React           | ^18.x.x     |
+| Tailwind CSS    | ^3.x.x      |
+| TypeScript      | ^5.x.x      |
+| Vercel          | CI/CD       |
+
+---
+
+## 💻 Getting Started Locally
+
+Follow these steps to run the project locally:
+
+# Clone the repository
+git clone https://github.com/sujon-258549/aboul-khair.git
+
+# Navigate into the project
+cd aboul-khair
+
+# Install dependencies
+npm install
+
+# Start the development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Visit: http://localhost:3000
+You must have Node.js (v18+) and npm installed on your machine.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+🧠 Major Challenges Faced
+⚙️ Integrating Tailwind with custom component logic for clean responsiveness
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+📏 Designing a pixel-perfect UI from scratch
 
-## Learn More
+🧪 Maintaining performance and accessibility in a production-grade Next.js app
 
-To learn more about Next.js, take a look at the following resources:
+🌱 Future Plans
+🔧 Add admin dashboard and content management support
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+🌐 Integrate backend API (Node.js/Express or Next.js API routes)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+📝 Enable multilingual support (i18n)
 
-## Deploy on Vercel
+🛡️ Add unit and integration tests (Jest + React Testing Library)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+📷 Project Preview
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+🧑‍💻 Author
+Md. Sujon Mia
+📧 sujan25854@gmail.com
+
+Project Home Image
+---![screencapture-aboul-khair-vercel-app-2025-05-11-11_50_28](https://github.com/user-attachments/assets/a455bcd5-612f-4a2b-a624-f33e0e6bf4a3)
